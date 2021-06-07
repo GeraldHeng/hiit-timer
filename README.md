@@ -1,6 +1,6 @@
 # hiit-timer
 
-[Imgur](https://i.imgur.com/0GxPTJ1.png)
+![Imgur](https://i.imgur.com/0GxPTJ1.png)
 
 ## HIIT Item
 
