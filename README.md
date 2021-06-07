@@ -4,6 +4,9 @@
 
 ![Imgur](https://i.imgur.com/0GxPTJ1.png)
 
+To Deploy
+https://learnvue.co/2020/09/how-to-deploy-your-vue-app-to-github-pages/
+
 ## HIIT Item
 
 - title
